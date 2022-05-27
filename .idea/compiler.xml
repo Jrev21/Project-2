@@ -9,8 +9,5 @@
         <module name="RevatureGroup2_Project1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="RevatureGroup2_Project1" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>

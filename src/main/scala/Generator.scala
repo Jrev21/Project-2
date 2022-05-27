@@ -4,7 +4,7 @@ object Generator {
   def main(args: Array[String]): Unit = {
     val spark = SparkSession
       .builder()
-      .appName("data_cleanup")
+      .appName("ScalaSpark")
       .config("spark.master", "local")
       .getOrCreate()
 
