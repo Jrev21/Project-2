@@ -14,8 +14,11 @@ object Question1 {
       "Payment_txn_id","Payment_txn_success","Failure_reason")
 
 df.createOrReplaceTempView("items")
-val sqlDF = spark.sql("SELECT * FROM items")
-df.groupBy("Product_type", "Country").count().orderBy("Country").show(1000)
+val sqlDF = spark.sql("SELECT SUM(Qty) AS Item_Sold, SUM(Price) AS Profit, Product_name, Product_type, Country FROM items " +
+                              "GROUP BY Product_name, Product_type, Country " +
+                              "HAVING Item_Sold >=109 " +
+                              "ORDER BY Country")
+sqlDF.show(10000)
   }
 
 }

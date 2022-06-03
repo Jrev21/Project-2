@@ -13,9 +13,13 @@ object Question2 {
       "Product_type", "Qty", "Price", "Datetime", "Country", "City", "Ecommerce_website_name",
       "Payment_txn_id", "Payment_txn_success", "Failure_reason")
     df.createOrReplaceTempView("items")
-    val sqlDF = spark.sql("SELECT * FROM items")
-    df.groupBy("Datetime", "Country", "Product_type").count().orderBy("Country", "Datetime").show(1000)
+    val sqlDF = spark.sql("SELECT SUM(Qty) AS Item_Sold, Product_name, Country FROM items " +
+                                  "WHERE Datetime LIKE '01%' " +
+                                  "GROUP BY Country, Product_name")
 
+sqlDF.show(1000)
 
   }
 }
+// We should probably implement different years like Normans group and
+// The query used would query the information based on each month. So we should have a program that allows for use to call for each month as needed.
