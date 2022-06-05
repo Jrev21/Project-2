@@ -1,0 +1,438 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DataAnalysis.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseManager.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu$$anonfun$print_menu$1.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu$.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator$$anonfun$main$1.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator$.class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator.class
+binary dependencies:
+15 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Java\jre\lib\rt.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.4.6.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.4.6.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> C:\Users\mcelu\.ivy2\cache\org.vegas-viz\vegas_2.11\jars\vegas_2.11-0.3.11.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Java\jre\lib\rt.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.4.6.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.4.6.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\.ivy2\cache\org.vegas-viz\vegas_2.11\jars\vegas_2.11-0.3.11.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Java\jre\lib\rt.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> C:\Java\jre\lib\rt.jar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> ecommerce_app.DataAnalysis
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ecommerce_app.DatabaseManager
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ecommerce_app.DatabaseMenu
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ecommerce_app.DatabaseMenu$
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ecommerce_app.DatabaseMenu$$anonfun$print_menu$1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ecommerce_app.Generator
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ecommerce_app.Generator$
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ecommerce_app.Generator$$anonfun$main$1
+used names:
+300 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> <init>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> <repeated>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> AnyRef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> DSL
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> DataAnalysis
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> DataFrame
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> Dataset
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> ExtendedUnitSpecBuilder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> Object
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> Predef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> Row
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> SparkSession
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> String
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> Unit
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> UnitSpecBuilder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> apache
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> ecommerce_app
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> org
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> package
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> popularityChangeCountryDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> popularityChangeDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> scala
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> show
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> sort
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> spark
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> sparkExt
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> sql
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> toDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> topSellerByCountryDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> topSellerDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> trafficSalesCountryDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> trafficSalesLocationsDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> trafficSalesTimesDF
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> types
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> vegas
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> <init>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> <repeated>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ==
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Any
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> AnyRef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Array
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ArrayBuffer
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Boolean
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Builder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Class
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ClassTag
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DSL
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DataAnalysis
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DataFrame
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DataFrameReader
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DataType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DatabaseManager
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> DoubleType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ERROR
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ExtendedUnitSpecBuilder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> File
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> IntegerType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Level
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Logger
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> MatchError
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Metadata
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Nothing
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Object
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Predef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> PrintWriter
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> SparkSession
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> String
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> StringType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> StructField
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> StructType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> System
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> T
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> TimestampType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> Unit
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> UnitSpecBuilder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> _$7
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> apache
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> appName
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> apply
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> builder
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> close
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> collection
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> config
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> createOrReplaceTempView
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> csv
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> dataAnalysis
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> df
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> dfSchema
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> ecommerce_app
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getChangeOfPopularityThroughoutYear
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getLocationsForHighestTrafficOfSales
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getLogger
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getOrCreate
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getTimesForHighestTrafficOfSales
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> getTopSellingCategoryOfItems
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> io
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> java
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> lang
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> log4j
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> marketingQuestionNumber
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> materializeClassTag
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> mutable
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> option
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> org
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> package
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> printSchema
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> println
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> read
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> scala
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> schema
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> setLevel
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> setProperty
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> spark
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> sparkExt
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> sql
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> types
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> vegas
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> +
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ->
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> <init>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> <repeated>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ==
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> A
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Any
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> AnyRef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Array
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ArrowAssoc
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> B
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Boolean
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Console
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> DatabaseManager
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> DatabaseMenu
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Function1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> IllegalArgumentException
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Init
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Int
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Iterable
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Map
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Nothing
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Object
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Predef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> StdIn
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> String
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Tuple2
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> U
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> Unit
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> apply
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> closeSpark
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> condition
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> createDatabase
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> databaseManager
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> doWhile$1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> ecommerce_app
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> foreach
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> i
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> input
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> io
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> keys
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> marketingQuestions
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> menu
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> menu_options
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> package
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> print_menu
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> println
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> readLine
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> scala
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> +
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> +=
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> <
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> <init>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> <repeated>
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ==
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> A
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Any
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> AnyRef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Array
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> B
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Boolean
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Char
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ChronoUnit
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> CreateRow
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> DAYS
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> File
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Function1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Generator
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Int
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> List
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ListBuffer
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> LocalDate
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Long
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Map
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> MatchError
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Nothing
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Object
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Predef
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> PrintWriter
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Random
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> String
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> System
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> T1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> T2
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Temporal
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Tuple2
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> U
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> Unit
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> a
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> add
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> apply
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> b
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> between
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> city
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> city_choice
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> close
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> collection
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> concurrent
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> country
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> csv
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> csvValues
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> customerID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> customerName
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> customerNames
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> date
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> datetime
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> decision
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> diff
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> duration
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ecommerce_app
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> fReason
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> foreach
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> fr
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> from
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> generate
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> generateID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getCity
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getCountry
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getCustomerName
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getDateTime
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getFailureReason
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getPaymentType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getProductname
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getTXN
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getWebsite
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getprice
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> getproductCategory
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ifcase
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> immutable
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> intString
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> io
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> java
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> lang
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> length
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> locationID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> makeCSV
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> mkString
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> mutable
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> nanoTime
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> newDate
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> newID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> nextInt
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> nextPrintableChar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> of
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> orderID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> package
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> payType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> paymentType
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> paymentTypes
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> plusDays
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> price
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> price_choice
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> print
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> productCategory
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> productID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> productName
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> pw
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> qty
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ran
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ranChar
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> ranChar1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> random
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> randomdate
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> randomtxn
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> rannum
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> rannum1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> reason
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> s
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> scala
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> temporal
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> time
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> to
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> toInt
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> toLong
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> toString
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> txn
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> txnID
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> util
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> website
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> websites
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> while$1
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> write
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> yOrN
+product stamps:
+8 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DataAnalysis.class -> lastModified(1654316111300)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseManager.class -> lastModified(1654316111311)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu$$anonfun$print_menu$1.class -> lastModified(1654316111328)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu$.class -> lastModified(1654316111322)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\DatabaseMenu.class -> lastModified(1654316111315)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator$$anonfun$main$1.class -> lastModified(1654316111352)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator$.class -> lastModified(1654316111350)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\target\scala-2.11\classes\ecommerce_app\Generator.class -> lastModified(1654316111332)
+source stamps:
+4 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> hash(dd30062460b7c6366b4cbd21df1d0177de194719)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> hash(4bb526b9b8c74d4e66fef44a4bb88d209cd95541)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> hash(0d6117a1155e6546fab68091f7587ff2599f88a6)
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> hash(454f8909ed443f92af491cd68680558f5abc06c2)
+binary stamps:
+6 items
+C:\Java\jre\lib\rt.jar -> lastModified(1653953902601)
+C:\Users\mcelu\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.4.6.jar -> lastModified(1590816302000)
+C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.4.6.jar -> lastModified(1590815054000)
+C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar -> lastModified(1509673049000)
+C:\Users\mcelu\.ivy2\cache\org.vegas-viz\vegas_2.11\jars\vegas_2.11-0.3.11.jar -> lastModified(1501021821000)
+class names:
+6 items
+C:\Java\jre\lib\rt.jar -> java.lang.Object
+C:\Users\mcelu\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Level
+C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.4.6.jar -> org.apache.spark.sql.types.StructType
+C:\Users\mcelu\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.4.6.jar -> org.apache.spark.sql.DataFrameReader
+C:\Users\mcelu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.12.jar -> scala.Boolean
+C:\Users\mcelu\.ivy2\cache\org.vegas-viz\vegas_2.11\jars\vegas_2.11-0.3.11.jar -> vegas.DSL.UnitSpecBuilder
+internal apis:
+4 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1mJ4YwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrI9uXXQABm5vdGlmeXNxAH4ADLXoTHp0ABxnZXRUb3BTZWxsaW5nQ2F0ZWdvcnlPZkl0ZW1zc3EAfgAM7IdlsnQABHdhaXRzcQB+AAyf2uuQdAANJGFzSW5zdGFuY2VPZnNxAH4ADJEJBv10AAZlcXVhbHNzcQB+AAyguladdAAkZ2V0TG9jYXRpb25zRm9ySGlnaGVzdFRyYWZmaWNPZlNhbGVzc3EAfgAMT4BShXQADGFzSW5zdGFuY2VPZnNxAH4ADNDaA3Z0AAxEYXRhQW5hbHlzaXNzcQB+AAz1HyjxdAAMc3luY2hyb25pemVkc3EAfgAMY6YYcnQADSRpc0luc3RhbmNlT2ZzcQB+AAzIP1cEdAAJbm90aWZ5QWxsc3EAfgAMU0awDnQADGlzSW5zdGFuY2VPZnNxAH4ADJZJWup0AAY8aW5pdD5zcQB+AAyrlgUVdAACPT1zcQB+AAwp0Z0DdAAFY2xvbmVzcQB+AAwHTqWIdAAgZ2V0VGltZXNGb3JIaWdoZXN0VHJhZmZpY09mU2FsZXNzcQB+AAykvlSTdAAjZ2V0Q2hhbmdlT2ZQb3B1bGFyaXR5VGhyb3VnaG91dFllYXJzcQB+AAxwWnF5dAAIdG9TdHJpbmdzcQB+AAxLLTlfdAACIT1zcQB+AAyLaw5fdAAIZ2V0Q2xhc3NzcQB+AAw3dBAudAACbmVzcQB+AAwvvCrwdAACZXFzcQB+AAzKfbSYdAACIyNzcQB+AAyMm77zdAAIZmluYWxpemVzcQB+AAx8jytfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaZWNvbW1lcmNlX2FwcC5EYXRhQW5hbHlzaXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANZWNvbW1lcmNlX2FwcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgSzsiZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNQzpcVXNlcnNcbWNlbHVcSWRlYVByb2plY3RzXFJldmF0dXJlR3JvdXAyX1Byb2plY3QxXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTdMAYkYLfGNmtMvSHfHQF33hlHGQ==
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwI0Ec7AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4RNzcnQABm5vdGlmeXNxAH4ADEqsWt10AAR3YWl0c3EAfgAMVOUstnQADSRhc0luc3RhbmNlT2ZzcQB+AAxxDEF1dAAGZXF1YWxzc3EAfgAMvylMKXQADGFzSW5zdGFuY2VPZnNxAH4ADAA8ek50AAxzeW5jaHJvbml6ZWRzcQB+AAyuF5EqdAANJGlzSW5zdGFuY2VPZnNxAH4ADF1Hu+h0ABJtYXJrZXRpbmdRdWVzdGlvbnNzcQB+AAw4zOaddAAJbm90aWZ5QWxsc3EAfgAMoe3jOXQADGRhdGFBbmFseXNpc3NxAH4ADBGh6T90AA5jcmVhdGVEYXRhYmFzZXNxAH4ADKizNjZ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPkN77dAAGPGluaXQ+c3EAfgAMd/LeJXQABXNwYXJrc3EAfgAMKWlKnnQAAj09c3EAfgAMmye6Q3QABWNsb25lc3EAfgAM+0PjJnQAD0RhdGFiYXNlTWFuYWdlcnNxAH4ADK/yLnl0ABJyZXR1cm5TcGFya1Nlc3Npb25zcQB+AAwai2O9dAAIdG9TdHJpbmdzcQB+AAxQ0KlQdAACIT1zcQB+AAy/EM3odAAIZ2V0Q2xhc3NzcQB+AAz4e5xHdAAKY2xvc2VTcGFya3NxAH4ADGv2KDF0AAJuZXNxAH4ADG0HEDV0AAJlcXNxAH4ADIrMbBZ0AAIjI3NxAH4ADAqGJk90AAhmaW5hbGl6ZXNxAH4ADIg6gUN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1lY29tbWVyY2VfYXBwLkRhdGFiYXNlTWFuYWdlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1lY29tbWVyY2VfYXBwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGBLOyJkHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1DOlxVc2Vyc1xtY2VsdVxJZGVhUHJvamVjdHNcUmV2YXR1cmVHcm91cDJfUHJvamVjdDFcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEu1Jrm4x01OZv70Sku4jSCc2VVB
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyAqviQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwd8QdHnQABm5vdGlmeXNxAH4ADKok8k10AARtZW51c3EAfgAM8FjEUnQABHdhaXRzcQB+AAwoGMiIdAAKcHJpbnRfbWVudXNxAH4ADJIoFJp0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9A4Ny3QABmVxdWFsc3NxAH4ADCVa8ZB0AAxhc0luc3RhbmNlT2ZzcQB+AAzwivIKdAAPZGF0YWJhc2VNYW5hZ2Vyc3EAfgAMKBmTQ3QABEluaXRzcQB+AAwdC7oAdAAMc3luY2hyb25pemVkc3EAfgAMB0Bo0HQADSRpc0luc3RhbmNlT2ZzcQB+AAyg4dgEdAAEbWFpbnNxAH4ADEBfU6l0AAxEYXRhYmFzZU1lbnVzcQB+AAxDo6OpdAAJbm90aWZ5QWxsc3EAfgAMG6e/SHQADGlzSW5zdGFuY2VPZnNxAH4ADAtQaV90AAI9PXNxAH4ADCjA5n10AAVjbG9uZXNxAH4ADDm73Ex0AAh0b1N0cmluZ3NxAH4ADKhGVrx0AAIhPXNxAH4ADCzCAMB0AAhnZXRDbGFzc3NxAH4ADF/EMFd0AAJuZXNxAH4ADIeM6cZ0AAJlcXNxAH4ADGHfMA90AAIjI3NxAH4ADLShZLl0AAhmaW5hbGl6ZXNxAH4ADPrl2nZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABplY29tbWVyY2VfYXBwLkRhdGFiYXNlTWVudXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+ACV1cQB+AFkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1lY29tbWVyY2VfYXBwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGBLOyJkHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1DOlxVc2Vyc1xtY2VsdVxJZGVhUHJvamVjdHNcUmV2YXR1cmVHcm91cDJfUHJvamVjdDFcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA1hF6EVXmVG+raAkfdYf/JZn4im
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTnsReAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzM8aSHQACmdldFdlYnNpdGVzcQB+AAzz9dy+dAAGbm90aWZ5c3EAfgAM3GCcaHQACUdlbmVyYXRvcnNxAH4ADMevaNp0AAR3YWl0c3EAfgAMdYuod3QADSRhc0luc3RhbmNlT2ZzcQB+AAwH5GuOdAAQZ2V0RmFpbHVyZVJlYXNvbnNxAH4ADAFxvI50AA9nZXRDdXN0b21lck5hbWVzcQB+AAzLqqEDdAAGZXF1YWxzc3EAfgAMCY5wXHQAEmdldHByb2R1Y3RDYXRlZ29yeXNxAH4ADCyPRDd0AAlDcmVhdGVSb3dzcQB+AAyT+/LTdAAMYXNJbnN0YW5jZU9mc3EAfgAMZacLYXQACXJhbmRvbXR4bnNxAH4ADCnWWEh0AAJwd3NxAH4ADLNT2fB0AAxzeW5jaHJvbml6ZWRzcQB+AAznwEXjdAANJGlzSW5zdGFuY2VPZnNxAH4ADBaK8kV0AARtYWluc3EAfgAMld4cdXQACW5vdGlmeUFsbHNxAH4ADJlwi9V0AAxpc0luc3RhbmNlT2ZzcQB+AAw7xDTNdAAGZ2V0VFhOc3EAfgAMzETJhHQAB2dldENpdHlzcQB+AAztZvMrdAACPT1zcQB+AAwQ/S9qdAAFY2xvbmVzcQB+AAyVKexFdAAIZ2V0cHJpY2VzcQB+AAx4EZOIdAALZ2V0RGF0ZVRpbWVzcQB+AAxzOxtvdAAIdG9TdHJpbmdzcQB+AAyMayRadAAKZ2V0Q291bnRyeXNxAH4ADDqshqZ0AA5nZXRQcm9kdWN0bmFtZXNxAH4ADO9cafR0AAIhPXNxAH4ADI3UfH50AAhnZXRDbGFzc3NxAH4ADFLkV5x0AApnZW5lcmF0ZUlEc3EAfgAMH9qR4HQAAm5lc3EAfgAM0sHdUHQAB21ha2VDU1ZzcQB+AAxM5wNadAACZXFzcQB+AAzUtY1RdAACIyNzcQB+AAxGy1drdAAIZmluYWxpemVzcQB+AAw9LqiFdAAIaGFzaENvZGVzcQB+AAxPXFDedAAOZ2V0UGF5bWVudFR5cGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXZWNvbW1lcmNlX2FwcC5HZW5lcmF0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgB+c3EAfgB5dXEAfgBcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBicQB+AGt1cQB+AGwAAAAAc3EAfgBuAHEAfgAtdXEAfgBxAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AhnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfXNxAH4AjHQABUFycmF5cQB+AJJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AjHQABlN0cmluZ3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJh0AARqYXZhc3EAfgCYdAAEbGFuZ3EAfgCdc3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AsQAAAAJzcQB+AIx0AAZPYmplY3RxAH4AtXNxAH4AjHQAA0FueXEAfgCSdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANZWNvbW1lcmNlX2FwcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgSzsiZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNQzpcVXNlcnNcbWNlbHVcSWRlYVByb2plY3RzXFJldmF0dXJlR3JvdXAyX1Byb2plY3QxXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRFT4kJ7UQ/kq9JHNaGgFWPWrwGwg==
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DataAnalysis.scala -> 
+AAAAAAAAAAA=
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseManager.scala -> 
+AAAAAAAAAAA=
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\DatabaseMenu.scala -> 
+AAAAAAAAAAA=
+C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\src\main\scala\ecommerce_app\Generator.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgRVpqmd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXG1jZWx1XElkZWFQcm9qZWN0c1xSZXZhdHVyZUdyb3VwMl9Qcm9qZWN0MVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgRVzi8R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXG1jZWx1XElkZWFQcm9qZWN0c1xSZXZhdHVyZUdyb3VwMl9Qcm9qZWN0MVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgRcnJMh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXG1jZWx1XElkZWFQcm9qZWN0c1xSZXZhdHVyZUdyb3VwMl9Qcm9qZWN0MVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgRfQE2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXG1jZWx1XElkZWFQcm9qZWN0c1xSZXZhdHVyZUdyb3VwMl9Qcm9qZWN0MVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgSzsiZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXG1jZWx1XElkZWFQcm9qZWN0c1xSZXZhdHVyZUdyb3VwMl9Qcm9qZWN0MVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
