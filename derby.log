@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 07 16:21:43 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0181-3fd4-8f17-0000185e7810 
+on database directory C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@78479f2b 
+Loaded from file:/C:/Users/mcelu/.ivy2/cache/org.apache.derby/derby/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_331-b09
+user.dir=C:\Users\mcelu\IdeaProjects\RevatureGroup2_Project1
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
