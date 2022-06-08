@@ -1,13 +1,41 @@
-# RevatureGroup2_Project1
+RevatureGroup2_Project1
 
-A Big Data Technology Project written in Scala that utilizes Spark SQL and Apache Hive to query and analyze 10,000 
-e-commerce records from a generated CSV file. This project was developed primarily in IntelliJ utilizing a specific 
-configuration that includes Scala 2.11.12, Spark 2.4.6 with Hadoop 2.6, and Apache Hive 2.3.9 with Java 1.8.1 operating
-as the SDK. Sbt 0.13.18 functions as the simple build tool that handles Maven dependencies utilized in establishing a
-SparkSession for all the required queries. Vegas-viz, which aims to be the missing MatPlotLib for Scala and Spark 
-environments, provides a data visualization tool for outputting graphs and plots pertaining to each query.
+Project Description:
 
-This is the second project and first team collaboration for our Big Data batch here at Revature during weeks 7-9 
-of training.
+A big data e-commerce application that uses a generator to create a CSV file with 10,000 rows related to customer order 
+data from websites in different countries. The data from the CSV file can then be analyzed through specific queries requested by 
+a marketing department. A visualization tool is then used to graphically display the output for each query.           
 
-The members of this team include: Julio Ortiz, Michael Celusniak, Juan Sandoval, Raymond Fu, and Christiana Dickson.
+Technologies Used:
+
+•	Scala - 2.11.12
+•	Java 1.8.1 as the SDK
+•	Spark – 2.4.6
+•	Hadoop – 2.6
+•	Hive – 2.3.9
+•	Sbt – 0.13.18
+•	Tableau Public 2022.1
+
+Features:
+
+•	A Generator Object to create a CSV file containing 10,000 entities of ecommerce data.
+•	A DatabaseManager class for creating a SparkSession and reading information from the generated CSV file into a DataFrame.            
+•	A DatabaseAnalysis class to create functions that handle specific queries which are then referenced in the DatabaseManager class.
+•	A DatabaseMenu object that accepts user input to select from one of four marketing questions.
+•	A LoginMenu object to validate username/password which will then call the DatabaseMenu upon a successful check for credentials.
+•	A Main object as a simple option to run the application.
+
+To-do list:
+
+•	Create more functions for different queries.
+•	Integrate Hive.
+•	Further optimization in terms of utilizing smaller DataFrames for faster queries.
+•	Utilizing case classes.
+
+Contributors:
+
+•	Michael Celusniak (Team Lead)
+•	Raymond Fu
+•	Christiana Dickson
+•	Juan Sandoval
+•	Julio Ortiz
